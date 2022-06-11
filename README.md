@@ -12,7 +12,7 @@
   
   ## 👨🏿‍💻Aprendendo:
   
-  <img align="center" alt="ZF-HTML" height="30" width="60" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="ZF-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="ZF-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="right" alt="ZF-Gif "height="150" width="150" src="https://pa1.narvii.com/6751/7e947baa8368b886544de4a02e0883de8ba66ee7_hq.gif">
