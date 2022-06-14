@@ -1,4 +1,4 @@
-## Oiii!
+<h1 align="center">Oii, eu sou Vitor!!<h1>
 
 <div align="center">
   <a href="https://github.com/Vitor-S">
@@ -6,7 +6,7 @@
   <img height="180em" width="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-S&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
