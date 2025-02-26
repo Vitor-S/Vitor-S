@@ -1,4 +1,4 @@
-<h1 align="center" >Seja muito bem vindo!!<h1>
+<h1 align="center" >Seja muito bem-vindo!!<h1>
 
 <div align="center">
   <a href="https://github.com/Vitor-S">
